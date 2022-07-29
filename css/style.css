@@ -928,6 +928,7 @@ h6 {
   display: -ms-flexbox;
   display: flex;
   position: relative;
+  justify-content: center;
 }
 
 .reviews__container .slide__btn {
